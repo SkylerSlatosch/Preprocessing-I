@@ -161,6 +161,10 @@ p {
   padding: 3rem;
   color: black;
 }
+.container nav a:hover {
+  background: black;
+  color: pink;
+}
 .skill {
   display: flex;
   flex-direction: row;
